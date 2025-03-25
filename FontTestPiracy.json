@@ -1,4 +1,4 @@
-  {"name":"Arthur Piracy",
+{"name":"Arthur Piracy",
 	"downloads":[
             {
 	    "title":"ELDEN RING (v1.16)",
@@ -480,5 +480,6 @@
             "uris":["https://gofile.io/d/ETrRiA"],
             "uploadDate":"2025-03-25T23:00:00.000Z",
             "fileSize":"3.8 GB"}
+
         ]
 }
